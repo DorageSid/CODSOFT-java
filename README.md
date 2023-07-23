@@ -9,11 +9,11 @@ Number Game is a simple Java-based guessing game where the player needs to guess
 2. Clone the repository to your local machine using the following command:
   -  git clone https://github.com/DorageSid/CODSOFT-java.git
 3. Navigate to the project directory:
-  -  cd NumberGame
+  -  cd <project directory>
 4. Compile the Java source code:
-  -  javac NumberGame.java
+  -  javac <file name.java>
 5. Run the application:
-   -  java NumberGame
+   -  java <file name>
 The game window will open, allowing you to play the Number Game.
 #### Technology Used
 - 'Java:' The game is developed using the Java programming language.
