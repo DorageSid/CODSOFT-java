@@ -18,6 +18,10 @@
 
 The game window will open, allowing you to play the Number Game.
 
+**Preview**
+
+https://github.com/DorageSid/CODSOFT-java/blob/master/src/numbergame/images/start.png
+
 #### Technology Used
 `Java` : The game is developed using the Java programming language.
 
