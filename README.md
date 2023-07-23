@@ -20,7 +20,7 @@ The game window will open, allowing you to play the Number Game.
 
 **Preview**
 
-![start] (https://github.com/DorageSid/CODSOFT-java/blob/master/src/numbergame/images/start.png)
+!(https://github.com/DorageSid/CODSOFT-java/blob/master/src/numbergame/images/start.png)
 
 #### Technology Used
 `Java` : The game is developed using the Java programming language.
