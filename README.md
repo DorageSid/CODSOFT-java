@@ -1,5 +1,6 @@
 Number Game
 Description
+
 Number Game is a simple Java-based guessing game where the player needs to guess a randomly generated number within a specified range.
 
 How to Run the Project
