@@ -13,7 +13,7 @@ Number Game is a simple Java-based guessing game where the player needs to guess
 4. Compile the Java source code:
   -  javac -file name.java-
 5. Run the application:
-   -  java -file name-
+  -  java -file name-
 The game window will open, allowing you to play the Number Game.
 #### Technology Used
 `Java` : The game is developed using the Java programming language.
