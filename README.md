@@ -16,9 +16,9 @@ Number Game is a simple Java-based guessing game where the player needs to guess
    -  java <file name>
 The game window will open, allowing you to play the Number Game.
 #### Technology Used
-´Java´ : The game is developed using the Java programming language.
+`Java` : The game is developed using the Java programming language.
 
-´Swing´: The graphical user interface (GUI) is created using the Swing library, allowing for a simple and interactive design.
+`Swing`: The graphical user interface (GUI) is created using the Swing library, allowing for a simple and interactive design.
 #### Game Rules
 - The game generates a random number between 1 and 100.
 - The player needs to enter their guess for the generated number in the provided text field.
