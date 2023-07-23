@@ -22,6 +22,14 @@ The game window will open, allowing you to play the Number Game.
 
 ![start](https://github.com/DorageSid/CODSOFT-java/blob/master/src/numbergame/images/start.png)
 
+![working](https://github.com/DorageSid/CODSOFT-java/blob/master/src/numbergame/images/working.png)
+
+![hints](https://github.com/DorageSid/CODSOFT-java/blob/master/src/numbergame/images/hints.png)
+
+![confirm](https://github.com/DorageSid/CODSOFT-java/blob/master/src/numbergame/images/confirm.png)
+
+![exit & over](https://github.com/DorageSid/CODSOFT-java/blob/master/src/numbergame/images/end%20%26%20result.png)
+
 
 #### Technology Used
 `Java` : The game is developed using the Java programming language.
