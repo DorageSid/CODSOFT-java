@@ -43,7 +43,7 @@ The game window will open, allowing you to play the Number Game.
 - The player's score is based on the number of attempts taken. The lower the number of attempts, the higher the score.
 - The player can choose to play again after each round ends.
 
-###### Additional Features
+#### Additional Features
 - The game offers hints to the player to help them get closer to the correct number.
 - After each round, the player is given the option to play again or exit the game.
   
