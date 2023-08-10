@@ -8,7 +8,7 @@
 #### To run the Number Game project, follow these steps:
 1. Make sure you have Java Development Kit (JDK) installed on your system.
 2. Clone the repository to your local machine using the following command:
-  -  git clone https://github.com/DorageSid/CODSOFT-java.git
+  -  https://github.com/DorageSid/codsoft_task01.git
 3. Navigate to the project directory:
   -  cd -project directory-
 4. Compile the Java source code:
